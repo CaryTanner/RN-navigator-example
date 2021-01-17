@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Raleway-Black.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-BlackItalic.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-Bold.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-BoldItalic.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-ExtraBold.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-ExtraBoldItalic.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-ExtraLight.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-ExtraLightItalic.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-Italic.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-Light.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-LightItalic.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-Medium.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-MediumItalic.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-Regular.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-SemiBold.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-SemiBoldItalic.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-Thin.ttf">
+   </FileRef>
+   <FileRef
+      location = "group:Raleway-ThinItalic.ttf">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
